@@ -2456,14 +2456,6 @@ html {
     max-width: 120%;
     min-height: 72px;
     min-width: 72px;
-    outline-offset: 0px;
-    -webkit-text-fill-color: inherit;
-    background-color: #fff;
-    background-clip: border-box;
-    border: 1px #000;
-    border-radius: 64px;
-    outline: 3px #2d2e32;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, .2);
   }
   
   @media screen and (max-width: 991px) {
