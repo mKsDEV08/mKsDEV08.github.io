@@ -2316,7 +2316,7 @@ html {
     font-style: normal;
     font-weight: 800;
     text-decoration: none;
-    background: radial-gradient(44.46% 50% at 50% 50%, #7000FF 0%, #A700C2 100%);
+    background: radial-gradient(#7000FF, #7102C9);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
